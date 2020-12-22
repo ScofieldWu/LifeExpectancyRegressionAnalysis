@@ -1,5 +1,5 @@
 # MDA9159 Statistical Modelling Final Project Report
-## Topic: Regression Analysis on Life Expectancy
+## Topic: Linear Model on Life Expectancy
 Table of Content:
 1. Introduction
 2. Summary Statistics & Data Visualization
@@ -10,3 +10,4 @@ Table of Content:
 4. Results
 5. Discussion & Limitations
 6. Future Work
+7. Reference
