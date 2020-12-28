@@ -1,6 +1,11 @@
 # MDA9159 Statistical Modelling Final Project Report
 ## Topic: Linear Model on Life Expectancy
-Table of Content:
+This repository includes:
+- RMarkdown (R coding)
+- CSV file
+- Final report
+
+Table of Content - Final Report:
 1. Introduction
 2. Summary Statistics & Data Visualization
 3. Methodology
